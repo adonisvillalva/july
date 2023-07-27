@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'variables.module.scss';
+@import 'home/slider.module.scss';
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  html,
+  body {
+    width: 100%;
+    margin: auto;
+  }
+  
+  body {
+    background: white;
+  }
+  
