@@ -1,7 +1,7 @@
 export default function Work(){
     return(
         <section>
-            <h1>work</h1>
+            <h1>Trabajo realizado</h1>
         </section>
     )
   }
